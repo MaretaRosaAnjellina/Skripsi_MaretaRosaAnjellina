@@ -1,0 +1,19 @@
+@import "_variables";
+
+@import "coreui/style.scss";
+
+@import "_custom";
+@import "_layout";
+
+.bg-primary {
+    background-color: #dc3545 !important;
+}
+
+.btn-primary {
+    border-color: #dc3545 !important;
+    background-color: #dc3545 !important;
+}
+
+.sidebar-nav {
+    background-color: #dc3545 !important;
+}
